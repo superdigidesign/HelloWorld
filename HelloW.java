@@ -5,7 +5,10 @@ public class HelloW {
 		//Single line comment
 		/*Multi-line comment example*/
 		
-		System.out.println("Helloworld!");
+		//System.out.println("Helloworld!");
+		
+		//Typo fixed
+		System.out.println("Hello world!");
 
 	}
 
